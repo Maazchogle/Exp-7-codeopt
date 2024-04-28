@@ -1,7 +1,3 @@
-/*
-Name: Maaz Aslam Chogle                                              Batch: 1
-Roll no.: 21CO19                              Sem: VI
-*/
 import java.io.*;
 import java.util.*;
 class subexp_opt
